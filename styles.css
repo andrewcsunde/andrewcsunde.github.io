@@ -1,0 +1,44 @@
+body {
+	padding-left: 1em;
+	padding-right: 1em;}
+
+p {
+	line-height: 1.4em;
+	text-align: justify;
+	text-indent: 1em;}
+
+.thank_you {
+	width: 40%;
+	display:inline-block;
+	min-width: 20em;}
+
+.centered {
+	text-align: center;}
+
+.block {
+	height: 3%;
+	background-color: black;}
+
+.title {
+	background-color: black;
+	color: white;
+	padding: 0.2em;
+	padding-left: 2em;
+	font-family: Courier, monospace;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	font-weight: bold;}
+
+.content {
+	width: 60%;
+	min-width: 25em;}
+
+.credits {
+	font-style: italic;
+	text-align: right;
+	margin: 0px;}
+
+.content_image {
+	max-height: 40%;
+	width: 80%;}
+
