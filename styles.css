@@ -42,8 +42,8 @@ p {
 	margin: 0px;}
 
 .content_image {
-	max-height: 40%;
-	width: 80%;}
+	max-height: 50em;
+	max-width: 100%;}
 
 #footer {
 	height: 10%;}
