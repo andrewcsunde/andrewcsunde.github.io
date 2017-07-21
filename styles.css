@@ -40,9 +40,12 @@ p {
 	text-align: right;
 	margin: 0px;}
 
+.date {
+	padding: 0em;}
+
 .content_image {
 	max-height: 50em;
-	max-width: 100%;
+	max-width: 80%;
 	padding-left: 1em;
 	padding-right: 1em;}
 
