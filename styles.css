@@ -25,6 +25,8 @@ header>h1{
 
 .piece>img{
 	width: 100%;}
+.piece>p{
+	font-style: italic;}
 
 #credits{
 	margin: 0em;
