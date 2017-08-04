@@ -1,54 +1,33 @@
 body {
+	margin: 0em;}
+
+header {
+	background-color: #000000;} 
+
+header>h1{
+	margin: 0em;
+	color: white;}
+
+.main_content{
 	padding-left: 1em;
-	padding-right: 1em;}
+	padding-right: 1em;
+	max-width: 40em;}
 
-p {
-	line-height: 1.4em;
-	text-align: justify;
-	text-indent: 1em;}
-
-.thank_you {
-	width: 40%;
-	display:inline-block;
-	min-width: 25em;}
-
-.centered {
-	text-align: center;}
-
-.block {
-	height: 1em;
-	background-color: black;}
-
-.title {
-	background-color: black;
+.piece>h1{
+	margin: 1em, 0em;
+	padding: 0.4em;
+	font-size: 1em;
+	background-color: #000000;
 	color: white;
-	padding: 0.2em;
-	padding-left: 2em;
-	font-family: Courier, monospace;
-	text-transform: uppercase;
+	font-family: "Courier New", Courier, monospace;
 	letter-spacing: 0.2em;
-	font-weight: bold;}
+	text-transform: uppercase;}
 
-.price {
-	font-style: italic;}
+.piece>img{
+	width: 100%;}
 
-.content {
-	width: 60%;}
-
-.credits {
+#credits{
+	margin: 0em;
 	font-style: italic;
 	text-align: right;
-	margin: 0px;}
-
-.date {
-	padding: 0em;}
-
-.content_image {
-	max-height: 50em;
-	max-width: 80%;
-	padding-left: 1em;
 	padding-right: 1em;}
-
-#footer {
-	height: 10%;}
-
